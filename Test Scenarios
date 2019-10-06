@@ -1,0 +1,10 @@
+Test scenarios are follows:
+1. Page title should be loaded properly
+2. The H3 tag and description should be loaded properly
+3. User should be able to enter a valid email address
+4. User should be able to enter First name on first name enter box
+5. User should be able enter lastname on last name enter box
+6. User should be able to create a valid password 
+7. User should be able to check agree to terms and policies
+8. User profile should be created by clicking on the 'Start my visit' button
+9. Verify all link objects in the page are taking user to appropriate pages 

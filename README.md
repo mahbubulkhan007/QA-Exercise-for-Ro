@@ -1,5 +1,6 @@
 # QA-Exercise-for-Ro
 Test scenario for vaginal-dryness
+
 @Test(priority = 1)
         public void Vaginal_Dryness() throws InterruptedException {
        // Acceptance criteria: User should be able to enter Email address

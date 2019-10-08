@@ -29,7 +29,7 @@
            // Element size
            System.out.println("Total element is: " + output.size());
            for (int i=0;i<count;i++)
-           // Element for Email output
+           // Element for Email output andenter the value
            { System.out.println("Email output element :" + output.get(i).getAttribute("value"));
                int x = output.get(i).getLocation().getX();
                if (x!=0);
